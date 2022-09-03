@@ -489,6 +489,7 @@ var simplemaps_statemap_mapdata={
       url: "https://www.fahahome.com/",
       size: "10",
       type: "circle"
+      group: 1
     },
     "1": {
       lat: 38.284,
@@ -499,6 +500,7 @@ var simplemaps_statemap_mapdata={
       url: "https://www.faym-music.com/",
       size: "10",
       type: "circle"
+      group: 1
     },
     "2": {
       lat: 38.199,
@@ -509,6 +511,7 @@ var simplemaps_statemap_mapdata={
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
       type: "star"
+      group: 0
     },
     "3": {
       lat: 38.261,
@@ -519,6 +522,7 @@ var simplemaps_statemap_mapdata={
       url: "https://www.rapprocksclimbing.com/?fbclid=IwAR1K-Gt-bfh1sUOU_i3K1sO2txAt77kqiyPvGEkS48wqqyyLieY41pwgON8",
       size: "10",
       type: "star"
+      group: 0
     },
     "4": {
       lat: 38.303,
@@ -529,6 +533,7 @@ var simplemaps_statemap_mapdata={
       url: "https://www.skyzone.com/fredericksburg/contact",
       size: "10",
       type: "star"
+      group: 0
     },
     "5": {
       lat: 38.316,
@@ -539,6 +544,7 @@ var simplemaps_statemap_mapdata={
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
       type: "star"
+      group: 0
     },
     "6": {
       lat: 38.255,
@@ -549,6 +555,7 @@ var simplemaps_statemap_mapdata={
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
       type: "star"
+      group: 0
     },
     "7": {
       lat: 38.022,
@@ -559,6 +566,7 @@ var simplemaps_statemap_mapdata={
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
       type: "star"
+      group: 0
     },
     "8": {
       lat: 38.201,
@@ -566,9 +574,11 @@ var simplemaps_statemap_mapdata={
       name: "Reach Homeschool",
       color: "red",
       description: "Homeschool classes, trips, social meetings and more",
+      url: "https://reachhomeschoolgroupva.org/"
       size: "10",
       type: "circle",
-      url: "https://reachhomeschoolgroupva.org/"
+      group: 1 
+      
     },
     "9": {
       lat: 38.294,
@@ -579,6 +589,7 @@ var simplemaps_statemap_mapdata={
       url: "https://www.homeschool-life.com/va/gracechurchcoop/",
       size: "10",
       type: "circle"
+      group: 1
     }
   },
   labels: {},
