@@ -12,8 +12,8 @@ $(document).ready(function(){ 																			//jQuery waits for the page to 
 	$(".group_toggle").click(function(event){														//When links with this class are clicked...
 		if (working){return}																					//Don't do anything if map is processing
 		var group_id=parseInt(this.id.substring(5));  												//Get the group # from the link's id	
-		for (var location in simplemaps_worldmap_mapdata.locations){					//Iterate over locations in mapdata file
-			loc=simplemaps_worldmap_mapdata.locations[location];
+		for (var location in mapdata.js.locations){					//Iterate over locations in mapdata file
+			loc=mapdata.js.locations[location];
 			if (loc.group==group_id){																		//If the location is in this link's group
 				if (loc.hide!='yes'){loc.hide='yes'}														//Hide or unhide it
 				else{loc.hide='no'}
