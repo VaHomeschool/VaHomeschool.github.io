@@ -12,19 +12,19 @@ $(document).ready(function(){ 																			//jQuery waits for the page to 
 	$(".group_toggle").click(function(event){														//When links with this class are clicked...
 		if (working){return}																					//Don't do anything if map is processing
 		var group_id=parseInt(this.id.substring(5));  												//Get the group # from the link's id	
-		for (var location in mapdata.js.locations){					//Iterate over locations in mapdata file
-			loc=mapdata.js.locations[location];
-			if (loc.group==group_id){																		//If the location is in this link's group
-				if (loc.hide!='yes'){loc.hide='yes'}														//Hide or unhide it
-				else{loc.hide='no'}
-			}
+		for (var location in simplemaps_statemap_mapdata.locations){				
+			loc=simplemaps_statemap_mapdata.locations[location];
+		if (loc.group==group_id){						
+			if (loc.hide!='yes'){loc.hide='yes'}						
+			else{loc.hide='no'}
+		}
 		}
 		working=true;																							//The map is processing
-		simplemaps_worldmap.refresh();																//Make the map reflect the changes to the mapdata.js file
+		simplemaps_statemap.refresh();																//Make the map reflect the changes to the mapdata.js file
 	});
 });
 
-simplemaps_worldmap.hooks.refresh_complete=function(){											
+simplemaps_statemap.hooks.refresh_complete=function(){											
 	working=false;																								//The map is done processing
 }	
 
