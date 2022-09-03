@@ -488,7 +488,7 @@ var simplemaps_statemap_mapdata={
       description: "Regional, Eclectic, and Secular, Homeschool Support",
       url: "https://www.fahahome.com/",
       size: "10",
-      type: "circle"
+      type: "circle",
       group: 1
     },
     "1": {
@@ -499,7 +499,7 @@ var simplemaps_statemap_mapdata={
       description: "Homeschool friendly music education. Band, chorus, theory, and more.",
       url: "https://www.faym-music.com/",
       size: "10",
-      type: "circle"
+      type: "circle",
       group: 1
     },
     "2": {
@@ -510,7 +510,7 @@ var simplemaps_statemap_mapdata={
       description: "Homeschool Fitness. Homeschool PE classes",
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
-      type: "star"
+      type: "star",
       group: 0
     },
     "3": {
@@ -521,7 +521,7 @@ var simplemaps_statemap_mapdata={
       description: "Climbing gym with discounted days for homeschoolers during the school year.",
       url: "https://www.rapprocksclimbing.com/?fbclid=IwAR1K-Gt-bfh1sUOU_i3K1sO2txAt77kqiyPvGEkS48wqqyyLieY41pwgON8",
       size: "10",
-      type: "star"
+      type: "star",
       group: 0
     },
     "4": {
@@ -532,7 +532,7 @@ var simplemaps_statemap_mapdata={
       description: "Trampoline Park with homeschool membership pricing during the school year",
       url: "https://www.skyzone.com/fredericksburg/contact",
       size: "10",
-      type: "star"
+      type: "star",
       group: 0
     },
     "5": {
@@ -543,7 +543,7 @@ var simplemaps_statemap_mapdata={
       description: "Homeschool Fitness. Homeschool PE classes",
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
-      type: "star"
+      type: "star",
       group: 0
     },
     "6": {
@@ -554,7 +554,7 @@ var simplemaps_statemap_mapdata={
       description: "Homeschool Fitness. Homeschool PE classes",
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
-      type: "star"
+      type: "star",
       group: 0
     },
     "7": {
@@ -565,7 +565,7 @@ var simplemaps_statemap_mapdata={
       description: "Homeschool Fitness. Homeschool PE classes",
       url: "https://family-ymca.org/programs/youth-sports/homeschool-fitness/",
       size: "10",
-      type: "star"
+      type: "star",
       group: 0
     },
     "8": {
@@ -588,7 +588,7 @@ var simplemaps_statemap_mapdata={
       description: "Since 2006, Grace Homeschool Co-op (GHC) has been a ministry of Grace Church of Fredericksburg, Virginia. Our purpose is to unify and serve the unique needs of Grace Church’s homeschooling families and those in the Bible-believing Christian community.",
       url: "https://www.homeschool-life.com/va/gracechurchcoop/",
       size: "10",
-      type: "circle"
+      type: "circle",
       group: 1
     }
   },
