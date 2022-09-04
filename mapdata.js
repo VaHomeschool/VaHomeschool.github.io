@@ -331,7 +331,7 @@ var simplemaps_statemap_mapdata={
     },
     "51177": {
       name: "Spotsylvania",
-      description: "<a href=\"Mailto: Homeschool@spotsylvania.k12.va.us\">Email Proof of progress and Notice of intent here</a> Mailing Address: 8020 River Stone Drive Fredericksburg, VA 22407"
+      description: "<a href="Mailto: Homeschool@spotsylvania.k12.va.us">Email Proof of progress and Notice of intent here</a>  <a href="https://www.spotsylvania.k12.va.us/page/home-school-information">County Homeschool Website</a> Mailing Address: 8020 River Stone Drive Fredericksburg, VA 22407"
     },
     "51179": {
       name: "Stafford"
