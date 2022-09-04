@@ -27,6 +27,7 @@ var simplemaps_statemap_mapdata={
     location_border_color: "#FFFFFF",
     location_border: .5,
     location_hover_border: 1,
+    location_link_text: "Visit Their Website",
     all_locations_inactive: "no",
     all_locations_hidden: "no",
     
