@@ -332,7 +332,7 @@ var simplemaps_statemap_mapdata={
     },
     "51177": {
       name: "Spotsylvania",
-      description: '<a href=\"mailto: Homeschool@spotsylvania.k12.va.us\">Email Proof of progress and Notice of intent here</a><br /><a href="https://www.spotsylvania.k12.va.us/page/home-school-information">County Homeschool Website</a>'
+      description: '<a href="mailto: Homeschool@spotsylvania.k12.va.us\">Email Proof of progress and Notice of intent here</a><br /><a href="https://www.spotsylvania.k12.va.us/page/home-school-information">County Homeschool Website</a>',
     },
     "51179": {
       name: "Stafford"
