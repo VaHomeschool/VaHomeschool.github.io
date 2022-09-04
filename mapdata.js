@@ -69,7 +69,7 @@ var simplemaps_statemap_mapdata={
     images_directory: "default",
     import_labels: "no",
     fade_time: 0.1,
-    link_text: "Our Comprehensive Guide to Homeschooling",
+    link_text: "",
     state_image_url: "",
     state_image_position: "",
     location_image_url: ""
