@@ -96,7 +96,7 @@ var simplemaps_statemap_mapdata={
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQdbssH9Q&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQdbssH9Q&#x2F;view?utm_content=DAFQdbssH9Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">sample</a> by Russell Wrightson"
+<a href="https://www.canva.com/design/DAFQdbssH9Q/view" target="_blank" rel="noopener">sample</a> by Russell Wrightson"
     },
     "51009": {
       name: "Amherst"
