@@ -69,7 +69,7 @@ var simplemaps_statemap_mapdata={
     images_directory: "default",
     import_labels: "no",
     fade_time: 0.1,
-    link_text: "__________________________________________________________________",
+    link_text: "",
     state_image_url: "",
     state_image_position: "",
     location_image_url: ""
@@ -93,7 +93,7 @@ var simplemaps_statemap_mapdata={
     },
     "51009": {
       name: "Amherst",
-      description: "<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\">  <iframe loading=\"lazy\" style=\"position: relative; width: 100%; height: 100%; top: 500; left: 500; border: none; padding: 0;margin: 0;\"    src=\"https://www.canva.com/design/DAFQdbssH9Q/view?embed\"allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">",
+      description: "<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\">  <iframe loading=\"eager\" style=\"position: relative; width: 100%; height: 100%; top: 500; left: 500; border: none; padding: 0;margin: 0;\"    src=\"https://www.canva.com/design/DAFQdbssH9Q/view?embed\"allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">",
     },
     "51011": {
       name: "Appomattox",
