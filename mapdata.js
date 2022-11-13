@@ -59,7 +59,7 @@ var simplemaps_statemap_mapdata={
     popup_shadow: 1,
     popup_corners: 5,
     popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",
-    popup_nocss: "no",
+    popup_nocss: "yes",
     
     //Advanced settings
     div: "map",
