@@ -14,7 +14,7 @@ var simplemaps_statemap_mapdata={
     border_size: 1.5,
     border_color: "#ffffff",
     all_states_inactive: "no",
-    all_states_zoomable: "no",
+    all_states_zoomable: "yes",
     
     //Location defaults
     location_description: "Location description",
@@ -50,7 +50,7 @@ var simplemaps_statemap_mapdata={
     region_opacity: 1,
     region_hover_opacity: 0.6,
     zoom_out_incrementally: "yes",
-    zoom_percentage: 0.99,
+    zoom_percentage: 0.8,
     zoom_time: 0.5,
     
     //Popup settings
