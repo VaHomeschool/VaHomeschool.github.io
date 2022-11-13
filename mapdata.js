@@ -97,7 +97,7 @@ var simplemaps_statemap_mapdata={
 
     },
     "51011": {
-      name: "Appomattox"
+      name: "Appomattox",
     },
     "51013": {
       name: "Arlington"
