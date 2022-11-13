@@ -59,7 +59,7 @@ var simplemaps_statemap_mapdata={
     popup_shadow: 1,
     popup_corners: 5,
     popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",
-    popup_nocss: "yes",
+    popup_nocss: "no",
     
     //Advanced settings
     div: "map",
@@ -69,7 +69,7 @@ var simplemaps_statemap_mapdata={
     images_directory: "default",
     import_labels: "no",
     fade_time: 0.1,
-    //link_text: "",
+    link_text: "__________________________________________________________________",
     state_image_url: "",
     state_image_position: "",
     location_image_url: ""
