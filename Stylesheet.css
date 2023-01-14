@@ -7,7 +7,10 @@
  	opacity: 0.9;
  	font: 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
  	color: black;
-	width: 40em;	
+	width: 40em;
+	margin-left: -20em;
+	margin-top: -20em;
+	position: absolute;		
  }
 
  .tt_name_sm {
