@@ -10,7 +10,7 @@
 	width: 40em;
 	margin-left: -20em;
 	margin-top: -20em;
-	position: absolute;		
+	position: absolute;
  }
 
  .tt_name_sm {
@@ -28,7 +28,8 @@
  .tt_custom_sm {}
 
  .tt_mobile_sm {
- 	margin-top: 5px;
+	visibility: hidden;
+	margin-top: -40px; 	
  }
 
  .btn_simplemaps {
