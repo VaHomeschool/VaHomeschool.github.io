@@ -1,4 +1,22 @@
- .tt_sm {
+ body {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;	
+ }
+
+#header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#buttons {
+	display:flex;
+	flex-direction: row;
+	justify-content: flex-end;
+}
+
+ .tt_sm {	
  	border-radius: 5px;
  	box-shadow: 3px 3px 4px rgba(0, 0, 0, .5);
  	z-index: 1000000;
