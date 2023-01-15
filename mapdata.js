@@ -489,7 +489,7 @@ var simplemaps_statemap_mapdata={
       lng: -77.542,
       name: "Fredericksburg Area Homeschool Association (FaHa)",
       color: "red",
-      description: "Regional, Eclectic, and Secular, Homeschool Support",
+      description: "https://www.canva.com/design/DAFXwYZVrus/view",
       url: "https://www.fahahome.com/",
       link_text: "Visit Their Website",
       size: "10",
