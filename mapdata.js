@@ -77,7 +77,7 @@ var simplemaps_statemap_mapdata={
   state_specific: {
     "51001": {
       name: "Accomack",
-      description: "<a href=\"mailto: della.jordan@accomack.k12.va.us\">Email Proof of progress and Notice of intent here</a><br />"
+      description: "<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%;\n padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFZMG_uP1U&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n </iframe>\n</div>"
     },
     "51003": {
       name: "Albemarle",
