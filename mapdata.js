@@ -490,7 +490,7 @@ var simplemaps_statemap_mapdata={
       lng: -77.542,
       name: "Fredericksburg Area Homeschool Association (FaHa)",
       color: "red",
-      description: "<div style=\"position: relative; width: 100%; height: 0; padding-top: 129.4118%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"> <iframe loading=\"lazy\" style=\"position: <a href=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXwYZVrus&#x2F;view?utm_content=DAFXwYZVrus&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Interactive Map Flyer</a> by Russell Wrightson</div></iframe>src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXwYZVrus&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"",
+      description: "<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%;\n padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXwYZVrus&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n </iframe>\n</div>",
       url: "https://www.fahahome.com/",
       link_text: "Visit Their Website",
       size: "10",
