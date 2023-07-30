@@ -82,7 +82,7 @@ var simplemaps_statemap_mapdata={
     },
     "51003": {
       name: "Albemarle",
-      description: "<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%;\n padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https://www.canva.com/design/DAFo__WhihQ/_4ZO1qtg0w0J3GpqmbDfkQ/view?utm_content=DAFo__WhihQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
+      description: "<div style=\"position: relative; width: 100%; height: 0; padding-top: 100.0000%;\n padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;\n border-radius: 8px; will-change: transform;\">\n  <iframe loading=\"lazy\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;\"\n    src=\"https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFo__WhihQ&#x2F;view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe>\n</div>"
 
     },
     "51005": {
